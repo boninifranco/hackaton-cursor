@@ -1,0 +1,219 @@
+{
+  "vertical": "stock_trazabilidad",
+  "ubicaciones": [
+    "Dospanca",
+    "Galpón",
+    "Frigopap"
+  ],
+  "movimientos_ingreso": [
+    {
+      "remito": 1001,
+      "fecha": "2026-03-09",
+      "variedad": "Agata",
+      "lote": "241",
+      "kg": 35160,
+      "bolsas": 705,
+      "destino": "Dospanca"
+    },
+    {
+      "remito": 1002,
+      "fecha": "2026-03-10",
+      "variedad": "Agata",
+      "lote": "241",
+      "kg": 34500,
+      "bolsas": 700,
+      "destino": "Dospanca"
+    },
+    {
+      "remito": 1005,
+      "fecha": "2026-03-13",
+      "variedad": "King Russet",
+      "lote": "910",
+      "kg": 3008,
+      "bolsas": 64,
+      "destino": "Galpón"
+    },
+    {
+      "remito": 1006,
+      "fecha": "2026-03-27",
+      "variedad": "Spunta",
+      "lote": "300",
+      "kg": 35980,
+      "bolsas": 700,
+      "destino": "Dospanca"
+    },
+    {
+      "remito": 1007,
+      "fecha": "2026-03-28",
+      "variedad": "Spunta",
+      "lote": "300",
+      "kg": 35920,
+      "bolsas": 700,
+      "destino": "Dospanca"
+    },
+    {
+      "remito": 1008,
+      "fecha": "2026-03-30",
+      "variedad": "Agata",
+      "lote": "225",
+      "kg": 27132,
+      "bolsas": 532,
+      "destino": "Dospanca"
+    },
+    {
+      "remito": 1009,
+      "fecha": "2026-03-29",
+      "variedad": "Spunta",
+      "lote": "300",
+      "kg": 10200,
+      "bolsas": 204,
+      "destino": "Galpón"
+    },
+    {
+      "remito": 1009,
+      "fecha": "2026-03-29",
+      "variedad": "Asterix",
+      "lote": "811",
+      "kg": 25000,
+      "bolsas": 500,
+      "destino": "Galpón"
+    },
+    {
+      "remito": 1010,
+      "fecha": "2026-03-30",
+      "variedad": "Memphis",
+      "lote": "511",
+      "kg": 10703,
+      "bolsas": 225,
+      "destino": "Dospanca"
+    },
+    {
+      "remito": 1011,
+      "fecha": "2026-03-31",
+      "variedad": "Agata",
+      "lote": "230",
+      "kg": 36540,
+      "bolsas": 700,
+      "destino": "Dospanca"
+    },
+    {
+      "remito": 1108,
+      "fecha": "2026-04-14",
+      "variedad": "Ludmilla",
+      "lote": "602",
+      "kg": 32300,
+      "bolsas": 630,
+      "destino": "Frigopap"
+    },
+    {
+      "remito": 1109,
+      "fecha": "2026-04-15",
+      "variedad": "Daifla",
+      "lote": "351",
+      "kg": 27480,
+      "bolsas": 561,
+      "destino": "Frigopap"
+    }
+  ],
+  "movimientos_egreso": [
+    {
+      "remito": 674,
+      "fecha": "2026-03-12",
+      "variedad": "King Russet",
+      "lote": "910",
+      "kg": 28380,
+      "bolsas": 579,
+      "origen": "Galpón",
+      "cliente": "Wemar - Mc Cain"
+    },
+    {
+      "remito": 675,
+      "fecha": "2026-03-12",
+      "variedad": "King Russet",
+      "lote": "910",
+      "kg": 32040,
+      "bolsas": 654,
+      "origen": "Galpón",
+      "cliente": "Wemar - Mc Cain"
+    },
+    {
+      "remito": 850,
+      "fecha": "2026-04-21",
+      "variedad": "Asterix",
+      "lote": "811",
+      "kg": 15600,
+      "bolsas": 311,
+      "origen": "Galpón",
+      "cliente": "Parmentier"
+    },
+    {
+      "remito": 1020,
+      "fecha": "2026-04-16",
+      "variedad": "Daifla",
+      "lote": "351",
+      "kg": 27480,
+      "bolsas": 561,
+      "origen": "Frigopap",
+      "cliente": "Parmentier"
+    },
+    {
+      "remito": 871,
+      "fecha": "2026-04-29",
+      "variedad": "Ludmilla",
+      "lote": "602",
+      "kg": 32500,
+      "bolsas": 630,
+      "origen": "Frigopap",
+      "cliente": "Frigopap Cliente Directo"
+    },
+    {
+      "remito": 721,
+      "fecha": "2026-05-06",
+      "variedad": "Spunta",
+      "lote": "300",
+      "kg": 34260,
+      "bolsas": 685,
+      "origen": "Dospanca",
+      "cliente": "La Unión del Sur"
+    },
+    {
+      "remito": 722,
+      "fecha": "2026-05-06",
+      "variedad": "Spunta",
+      "lote": "300",
+      "kg": 33780,
+      "bolsas": 676,
+      "origen": "Dospanca",
+      "cliente": "La Unión del Sur"
+    },
+    {
+      "remito": 1011,
+      "fecha": "2026-04-02",
+      "variedad": "Agata",
+      "lote": "241",
+      "kg": 29080,
+      "bolsas": 600,
+      "origen": "Dospanca",
+      "cliente": "Cerone (Raphael)"
+    }
+  ],
+  "discrepancia_demo": {
+    "descripcion": "Movimiento no registrado en el sistema, detectado por conteo físico",
+    "variedad": "King Russet",
+    "lote": "910",
+    "ubicacion": "Galpón",
+    "kg_faltante_en_sistema": 33780,
+    "bolsas_faltante_en_sistema": 689,
+    "hipotesis_esperada": "Un movimiento de salida de King Russet lote 910 posiblemente no se registró en el sistema — el conteo físico muestra menos stock del declarado."
+  },
+  "frases_ejemplo_stock": [
+    "Salieron 28380 kilos de king russet lote 910 del galpón para wemar mc cain, remito 674",
+    "Ingresaron 35160 kilos de agata lote 241 al dospanca, 705 bolsas, remito 1001",
+    "Movimos 27480 kilos de daifla lote 351 a frigopap",
+    "Entregamos 34260 kilos de spunta lote 300 desde dospanca a la union del sur"
+  ],
+  "frases_ejemplo_ordenes": [
+    "Apliqué fungicida Dithane en el lote 34B del pivote B, dosis 2.5 por hectárea, con drone, el 11 de noviembre",
+    "Hoy en el lote 8 aplicamos Engeo contra plagas, 0.25 kg por hectárea"
+  ]
+}
